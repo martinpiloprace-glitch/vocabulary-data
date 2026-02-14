@@ -1,0 +1,25 @@
+{
+  "name": "A1-House",
+  "words": [
+    { "en": "house", "cz": "dům" },
+    { "en": "flat", "cz": "byt" },
+    { "en": "room", "cz": "místnost" },
+    { "en": "kitchen", "cz": "kuchyně" },
+    { "en": "bathroom", "cz": "koupelna" },
+    { "en": "bedroom", "cz": "ložnice" },
+    { "en": "living room", "cz": "obývací pokoj" },
+    { "en": "hall", "cz": "chodba" },
+    { "en": "door", "cz": "dveře" },
+    { "en": "window", "cz": "okno" },
+    { "en": "table", "cz": "stůl" },
+    { "en": "chair", "cz": "židle" },
+    { "en": "bed", "cz": "postel" },
+    { "en": "sofa", "cz": "pohovka" },
+    { "en": "lamp", "cz": "lampa" },
+    { "en": "carpet", "cz": "koberec" },
+    { "en": "fridge", "cz": "lednice" },
+    { "en": "oven", "cz": "trouba" },
+    { "en": "sink", "cz": "dřez" },
+    { "en": "shower", "cz": "sprcha" }
+  ]
+}

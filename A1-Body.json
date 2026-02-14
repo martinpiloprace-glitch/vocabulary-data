@@ -1,0 +1,25 @@
+{
+  "name": "A1-Body",
+  "words": [
+    { "en": "head", "cz": "hlava" },
+    { "en": "hair", "cz": "vlasy" },
+    { "en": "face", "cz": "obličej" },
+    { "en": "eye", "cz": "oko" },
+    { "en": "ear", "cz": "ucho" },
+    { "en": "nose", "cz": "nos" },
+    { "en": "mouth", "cz": "ústa" },
+    { "en": "tooth", "cz": "zub" },
+    { "en": "neck", "cz": "krk" },
+    { "en": "shoulder", "cz": "rameno" },
+    { "en": "arm", "cz": "paže" },
+    { "en": "hand", "cz": "ruka" },
+    { "en": "finger", "cz": "prst" },
+    { "en": "chest", "cz": "hrudník" },
+    { "en": "back", "cz": "záda" },
+    { "en": "stomach", "cz": "břicho" },
+    { "en": "leg", "cz": "noha" },
+    { "en": "knee", "cz": "koleno" },
+    { "en": "foot", "cz": "chodidlo" },
+    { "en": "toe", "cz": "prst na noze" }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "A1-Transport",
+  "words": [
+    { "en": "car", "cz": "auto" },
+    { "en": "bus", "cz": "autobus" },
+    { "en": "train", "cz": "vlak" },
+    { "en": "tram", "cz": "tramvaj" },
+    { "en": "bike", "cz": "kolo" },
+    { "en": "motorbike", "cz": "motorka" },
+    { "en": "plane", "cz": "letadlo" },
+    { "en": "boat", "cz": "loď" },
+    { "en": "ship", "cz": "loď (velká)" },
+    { "en": "taxi", "cz": "taxík" },
+    { "en": "subway", "cz": "metro" },
+    { "en": "truck", "cz": "nákladní auto" },
+    { "en": "van", "cz": "dodávka" },
+    { "en": "stop", "cz": "zastávka" },
+    { "en": "station", "cz": "stanice" },
+    { "en": "airport", "cz": "letiště" },
+    { "en": "road", "cz": "silnice" },
+    { "en": "bridge", "cz": "most" },
+    { "en": "traffic light", "cz": "semafor" },
+    { "en": "crosswalk", "cz": "přechod" }
+  ]
+}

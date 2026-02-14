@@ -1,0 +1,25 @@
+{
+  "name": "A1-Clothes",
+  "words": [
+    { "en": "shirt", "cz": "košile" },
+    { "en": "t-shirt", "cz": "tričko" },
+    { "en": "jacket", "cz": "bunda" },
+    { "en": "coat", "cz": "kabát" },
+    { "en": "pants", "cz": "kalhoty" },
+    { "en": "shorts", "cz": "kraťasy" },
+    { "en": "skirt", "cz": "sukně" },
+    { "en": "dress", "cz": "šaty" },
+    { "en": "shoes", "cz": "boty" },
+    { "en": "boots", "cz": "kozačky" },
+    { "en": "socks", "cz": "ponožky" },
+    { "en": "hat", "cz": "klobouk / čepice" },
+    { "en": "cap", "cz": "kšiltovka" },
+    { "en": "scarf", "cz": "šála" },
+    { "en": "gloves", "cz": "rukavice" },
+    { "en": "belt", "cz": "pásek" },
+    { "en": "sweater", "cz": "svetr" },
+    { "en": "hoodie", "cz": "mikina" },
+    { "en": "jeans", "cz": "džíny" },
+    { "en": "sunglasses", "cz": "sluneční brýle" }
+  ]
+}

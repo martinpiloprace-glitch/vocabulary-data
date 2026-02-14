@@ -1,0 +1,25 @@
+{
+  "name": "A1-Family",
+  "words": [
+    { "en": "family", "cz": "rodina" },
+    { "en": "mother", "cz": "matka" },
+    { "en": "father", "cz": "otec" },
+    { "en": "parents", "cz": "rodiče" },
+    { "en": "sister", "cz": "sestra" },
+    { "en": "brother", "cz": "bratr" },
+    { "en": "daughter", "cz": "dcera" },
+    { "en": "son", "cz": "syn" },
+    { "en": "grandmother", "cz": "babička" },
+    { "en": "grandfather", "cz": "dědeček" },
+    { "en": "grandparents", "cz": "prarodiče" },
+    { "en": "aunt", "cz": "teta" },
+    { "en": "uncle", "cz": "strýc" },
+    { "en": "cousin", "cz": "bratranec / sestřenice" },
+    { "en": "baby", "cz": "miminko" },
+    { "en": "wife", "cz": "manželka" },
+    { "en": "husband", "cz": "manžel" },
+    { "en": "family member", "cz": "člen rodiny" },
+    { "en": "child", "cz": "dítě" },
+    { "en": "children", "cz": "děti" }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "A1-Food",
+  "words": [
+    { "en": "bread", "cz": "chléb" },
+    { "en": "water", "cz": "voda" },
+    { "en": "milk", "cz": "mléko" },
+    { "en": "apple", "cz": "jablko" },
+    { "en": "banana", "cz": "banán" },
+    { "en": "orange", "cz": "pomeranč" },
+    { "en": "cheese", "cz": "sýr" },
+    { "en": "meat", "cz": "maso" },
+    { "en": "chicken", "cz": "kuře" },
+    { "en": "rice", "cz": "rýže" },
+    { "en": "egg", "cz": "vejce" },
+    { "en": "potato", "cz": "brambora" },
+    { "en": "tomato", "cz": "rajče" },
+    { "en": "salad", "cz": "salát" },
+    { "en": "soup", "cz": "polévka" },
+    { "en": "coffee", "cz": "káva" },
+    { "en": "tea", "cz": "čaj" },
+    { "en": "juice", "cz": "džus" },
+    { "en": "butter", "cz": "máslo" },
+    { "en": "salt", "cz": "sůl" }
+  ]
+}

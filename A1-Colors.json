@@ -1,0 +1,16 @@
+{
+  "name": "A1-Colors",
+  "words": [
+    { "en": "red", "cz": "červená" },
+    { "en": "blue", "cz": "modrá" },
+    { "en": "green", "cz": "zelená" },
+    { "en": "yellow", "cz": "žlutá" },
+    { "en": "black", "cz": "černá" },
+    { "en": "white", "cz": "bílá" },
+    { "en": "orange", "cz": "oranžová" },
+    { "en": "pink", "cz": "růžová" },
+    { "en": "brown", "cz": "hnědá" },
+    { "en": "purple", "cz": "fialová" },
+    { "en": "gray", "cz": "šedá" }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "A1-City",
+  "words": [
+    { "en": "school", "cz": "škola" },
+    { "en": "shop", "cz": "obchod" },
+    { "en": "hospital", "cz": "nemocnice" },
+    { "en": "park", "cz": "park" },
+    { "en": "bank", "cz": "banka" },
+    { "en": "post office", "cz": "pošta" },
+    { "en": "restaurant", "cz": "restaurace" },
+    { "en": "café", "cz": "kavárna" },
+    { "en": "supermarket", "cz": "supermarket" },
+    { "en": "bus stop", "cz": "autobusová zastávka" },
+    { "en": "train station", "cz": "vlakové nádraží" },
+    { "en": "airport", "cz": "letiště" },
+    { "en": "library", "cz": "knihovna" },
+    { "en": "cinema", "cz": "kino" },
+    { "en": "hotel", "cz": "hotel" },
+    { "en": "street", "cz": "ulice" },
+    { "en": "bridge", "cz": "most" },
+    { "en": "square", "cz": "náměstí" },
+    { "en": "church", "cz": "kostel" },
+    { "en": "museum", "cz": "muzeum" }
+  ]
+}

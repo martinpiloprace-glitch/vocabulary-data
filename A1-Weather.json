@@ -1,0 +1,25 @@
+{
+  "name": "A1-Weather",
+  "words": [
+    { "en": "sun", "cz": "slunce" },
+    { "en": "rain", "cz": "déšť" },
+    { "en": "snow", "cz": "sníh" },
+    { "en": "wind", "cz": "vítr" },
+    { "en": "cloud", "cz": "mrak" },
+    { "en": "storm", "cz": "bouřka" },
+    { "en": "fog", "cz": "mlha" },
+    { "en": "ice", "cz": "led" },
+    { "en": "hot", "cz": "horko" },
+    { "en": "cold", "cz": "zima" },
+    { "en": "warm", "cz": "teplo" },
+    { "en": "cool", "cz": "chladno" },
+    { "en": "sunny", "cz": "slunečno" },
+    { "en": "rainy", "cz": "deštivo" },
+    { "en": "snowy", "cz": "sněživo" },
+    { "en": "windy", "cz": "větrno" },
+    { "en": "cloudy", "cz": "zataženo" },
+    { "en": "stormy", "cz": "bouřlivo" },
+    { "en": "temperature", "cz": "teplota" },
+    { "en": "weather", "cz": "počasí" }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "A1-G",
+  "words": [
+    { "en": "game", "cz": "hra" },
+    { "en": "garden", "cz": "zahrada" },
+    { "en": "gas", "cz": "benzín; plyn" },
+    { "en": "gate", "cz": "brána" },
+    { "en": "geography", "cz": "zeměpis" },
+    { "en": "get", "cz": "dostat; získat" },
+    { "en": "girl", "cz": "dívka" },
+    { "en": "give", "cz": "dát" },
+    { "en": "glass", "cz": "sklenice; sklo" },
+    { "en": "go", "cz": "jít" },
+    { "en": "good", "cz": "dobrý" },
+    { "en": "goodbye", "cz": "sbohem" },
+    { "en": "grandfather", "cz": "dědeček" },
+    { "en": "grandmother", "cz": "babička" },
+    { "en": "gray", "cz": "šedý" },
+    { "en": "great", "cz": "skvělý" },
+    { "en": "green", "cz": "zelený" },
+    { "en": "group", "cz": "skupina" },
+    { "en": "grow", "cz": "růst" },
+    { "en": "guess", "cz": "hádat" },
+    { "en": "guitar", "cz": "kytara" }
+  ]
+}

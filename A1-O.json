@@ -1,0 +1,31 @@
+{
+  "name": "A1-O",
+  "words": [
+    { "en": "object", "cz": "předmět" },
+    { "en": "ocean", "cz": "oceán" },
+    { "en": "October", "cz": "říjen" },
+    { "en": "of", "cz": "z; od" },
+    { "en": "off", "cz": "vypnuto; pryč" },
+    { "en": "offer", "cz": "nabídnout" },
+    { "en": "office", "cz": "kancelář" },
+    { "en": "often", "cz": "často" },
+    { "en": "oil", "cz": "olej" },
+    { "en": "old", "cz": "starý" },
+    { "en": "on", "cz": "na" },
+    { "en": "once", "cz": "jednou" },
+    { "en": "one", "cz": "jedna; jeden" },
+    { "en": "only", "cz": "jen; pouze" },
+    { "en": "open", "cz": "otevřít; otevřený" },
+    { "en": "opinion", "cz": "názor" },
+    { "en": "opposite", "cz": "naproti; opačný" },
+    { "en": "or", "cz": "nebo" },
+    { "en": "orange", "cz": "pomeranč; oranžový" },
+    { "en": "order", "cz": "objednat; pořádek" },
+    { "en": "other", "cz": "jiný" },
+    { "en": "our", "cz": "náš" },
+    { "en": "out", "cz": "ven" },
+    { "en": "outside", "cz": "venku; vně" },
+    { "en": "over", "cz": "nad; přes" },
+    { "en": "own", "cz": "vlastní; vlastnit" }
+  ]
+}

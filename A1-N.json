@@ -1,0 +1,33 @@
+{
+  "name": "A1-N",
+  "words": [
+    { "en": "name", "cz": "jméno" },
+    { "en": "national", "cz": "národní" },
+    { "en": "natural", "cz": "přirozený" },
+    { "en": "near", "cz": "blízko" },
+    { "en": "necessary", "cz": "nutný" },
+    { "en": "neck", "cz": "krk" },
+    { "en": "need", "cz": "potřebovat" },
+    { "en": "neighbor", "cz": "soused" },
+    { "en": "never", "cz": "nikdy" },
+    { "en": "new", "cz": "nový" },
+    { "en": "news", "cz": "zprávy" },
+    { "en": "newspaper", "cz": "noviny" },
+    { "en": "next", "cz": "další; příští" },
+    { "en": "nice", "cz": "pěkný" },
+    { "en": "night", "cz": "noc" },
+    { "en": "nine", "cz": "devět" },
+    { "en": "nineteen", "cz": "devatenáct" },
+    { "en": "ninety", "cz": "devadesát" },
+    { "en": "no", "cz": "ne" },
+    { "en": "noise", "cz": "hluk" },
+    { "en": "north", "cz": "sever" },
+    { "en": "nose", "cz": "nos" },
+    { "en": "not", "cz": "ne" },
+    { "en": "note", "cz": "poznámka" },
+    { "en": "nothing", "cz": "nic" },
+    { "en": "November", "cz": "listopad" },
+    { "en": "now", "cz": "teď" },
+    { "en": "number", "cz": "číslo" }
+  ]
+}

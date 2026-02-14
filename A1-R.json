@@ -1,0 +1,28 @@
+{
+  "name": "A1-R",
+  "words": [
+    { "en": "rain", "cz": "déšť" },
+    { "en": "read", "cz": "číst" },
+    { "en": "ready", "cz": "připravený" },
+    { "en": "real", "cz": "skutečný" },
+    { "en": "really", "cz": "opravdu" },
+    { "en": "reason", "cz": "důvod" },
+    { "en": "red", "cz": "červený" },
+    { "en": "remember", "cz": "pamatovat si" },
+    { "en": "repeat", "cz": "opakovat" },
+    { "en": "restaurant", "cz": "restaurace" },
+    { "en": "result", "cz": "výsledek" },
+    { "en": "return", "cz": "vrátit se" },
+    { "en": "rice", "cz": "rýže" },
+    { "en": "rich", "cz": "bohatý" },
+    { "en": "ride", "cz": "jet; jezdit" },
+    { "en": "right", "cz": "pravý; správný" },
+    { "en": "ring", "cz": "prsten; zvonit" },
+    { "en": "river", "cz": "řeka" },
+    { "en": "road", "cz": "silnice" },
+    { "en": "room", "cz": "pokoj" },
+    { "en": "round", "cz": "kulatý; kolem" },
+    { "en": "rule", "cz": "pravidlo" },
+    { "en": "run", "cz": "běžet" }
+  ]
+}

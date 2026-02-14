@@ -1,0 +1,24 @@
+{
+  "name": "A1-I",
+  "words": [
+    { "en": "ice", "cz": "led" },
+    { "en": "idea", "cz": "nápad" },
+    { "en": "if", "cz": "pokud" },
+    { "en": "imagine", "cz": "představit si" },
+    { "en": "important", "cz": "důležitý" },
+    { "en": "improve", "cz": "zlepšit" },
+    { "en": "in", "cz": "v" },
+    { "en": "include", "cz": "zahrnovat" },
+    { "en": "information", "cz": "informace" },
+    { "en": "interest", "cz": "zájem" },
+    { "en": "interested", "cz": "zaujatý" },
+    { "en": "interesting", "cz": "zajímavý" },
+    { "en": "internet", "cz": "internet" },
+    { "en": "interview", "cz": "rozhovor" },
+    { "en": "into", "cz": "do" },
+    { "en": "introduce", "cz": "představit" },
+    { "en": "island", "cz": "ostrov" },
+    { "en": "it", "cz": "to" },
+    { "en": "its", "cz": "jeho (neživé)" }
+  ]
+}

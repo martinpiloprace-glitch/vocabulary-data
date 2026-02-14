@@ -1,0 +1,15 @@
+{
+  "name": "C2-S",
+  "words": [
+    { "en": "surmount", "cz": "překonat; zdolat", "ex": "They managed to surmount every obstacle in their path." },
+    { "en": "surreptitious", "cz": "tajný; nenápadný", "ex": "They exchanged surreptitious glances during the meeting." },
+    { "en": "susceptible", "cz": "náchylný; citlivý", "ex": "Young plants are particularly susceptible to frost damage." },
+    { "en": "sustain", "cz": "udržet; podpořit", "ex": "The organization struggled to sustain its rapid growth." },
+    { "en": "sycophant", "cz": "patolízal; pochlebovač", "ex": "He surrounded himself with sycophants who never challenged him." },
+    { "en": "symbiotic", "cz": "symbiotický; vzájemně prospěšný", "ex": "The two companies developed a symbiotic partnership." },
+    { "en": "synchronous", "cz": "synchronní; současný", "ex": "The systems must operate in synchronous harmony to avoid errors." },
+    { "en": "synoptic", "cz": "stručný; přehledový", "ex": "The report offered a synoptic overview of recent developments." },
+    { "en": "synthesis", "cz": "syntéza; propojení", "ex": "Her theory represents a synthesis of several disciplines." },
+    { "en": "systemic", "cz": "systémový; celkový", "ex": "The issue reflects deeper systemic problems." }
+  ]
+}
